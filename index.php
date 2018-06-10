@@ -8,3 +8,8 @@
 
 </body>
 </html>
+
+<?php
+	echo "welcome :D!";
+
+?>
